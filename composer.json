@@ -1,5 +1,5 @@
 {
-  "name": "moolex/protobuf-php",
+  "name": "rgooding/protobuf-php",
   "type": "library",
   "description": "proto library for PHP",
   "keywords": ["proto"],
